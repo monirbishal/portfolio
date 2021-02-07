@@ -4,7 +4,7 @@ window.onload = function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
 		el.innerHTML = '<span style="font-family: \'et-line\'">' + entity + '</span>' + html;
-	}
+	} 
 	var icons = {
 			'icon-mobile' : '&#xe000;',
 			'icon-laptop' : '&#xe001;',

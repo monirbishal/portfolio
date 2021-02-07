@@ -2,7 +2,7 @@
 //    $("#navbar_toggler ul li a").click(function(){
 //        $("#navbar_toggler ul li a").addClass("current");
 //    });
-////});
+////}); 
 //$(function () {
 //    // nav-menu scrolling
 //    $('#navbar_toggler ul li a').on('click', function () {
